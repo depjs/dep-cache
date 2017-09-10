@@ -1,6 +1,6 @@
 {
   "name": "dep-cache",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Cache holder in P2P network",
   "main": "index.js",
   "scripts": {
