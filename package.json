@@ -7,6 +7,7 @@
     "release": "standard-version",
     "test": "standard"
   },
+  "bin": "./dep-cache.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/depjs/dep-cache.git"
@@ -23,6 +24,6 @@
     "standard-version": "^4.2.0"
   },
   "dependencies": {
-    "dat-npm": "^4.0.6"
+    "dat-npm": "mafintosh/dat-npm#622aecb"
   }
 }

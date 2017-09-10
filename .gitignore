@@ -57,3 +57,7 @@ typings/
 # dotenv environment variables file
 .env
 
+# dep-cache
+.dat
+npm-meta.db
+npm-tarballs.db
