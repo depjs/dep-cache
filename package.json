@@ -1,0 +1,20 @@
+{
+  "name": "dep-cache",
+  "version": "0.0.0",
+  "description": "Cache holder in P2P network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/depjs/dep-cache.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/depjs/dep-cache/issues"
+  },
+  "homepage": "https://github.com/depjs/dep-cache#readme"
+}
